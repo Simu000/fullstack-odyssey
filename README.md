@@ -13,8 +13,13 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
 
 ---
 
-### 📂 Project Structure
-Beginner-Projects/
-│ ├── Dice-Game/
+### 📁 Project Structure
+
+- ### Beginner-Projects/
+    - #### 1. TinDog/
+        - *A responsive front-end project demonstrating HTML and CSS skills, mimicking a landing page for a dog dating app.*
+    - #### 2. Dice-Game/
+        - *A simple interactive game built with JavaScript. **It displays two dice, and upon every page refresh, both dice roll to show a random number, with the higher number determining the winner.** *
+
 
 

@@ -14,4 +14,11 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
 ---
 
 ### 📂 Project Structure
+Beginner-Projects/
+│ ├── Dice-Game/
+│
+Intermediate-Projects/
+│
+Advanced-Projects/
+
 

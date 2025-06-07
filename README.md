@@ -19,7 +19,9 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
     - #### 1. TinDog/
         - *A responsive front-end project demonstrating HTML and CSS skills, mimicking a landing page for a dog dating app.*
     - #### 2. Dice-Game/
-        - A simple interactive game built with JavaScript. **It displays two dice, and upon every page refresh, both dice roll to show a random number, with the higher number determining the winner.** 
-
+        - A simple interactive game built with JavaScript. **It displays two dice, and upon every page refresh, both dice roll to show a random number, with the higher number determining the winner.**
+    - #### 3. Drum Kit/
+        -  A fun and interactive website built using basic JavaScript, HTML, and CSS. Users can play drum sounds by either clicking on on-screen images or pressing the corresponding keyboard keys shown on each image. This project demonstrates event handling and DOM manipulation fundamentals.
+    
 
 

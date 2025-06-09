@@ -22,6 +22,8 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
         - A simple interactive game built with JavaScript. **It displays two dice, and upon every page refresh, both dice roll to show a random number, with the higher number determining the winner.**
     - #### 3. Drum Kit/
         -  A fun and interactive website built using basic JavaScript, HTML, and CSS. Users can play drum sounds by either clicking on on-screen images or pressing the corresponding keyboard keys shown on each image. This project demonstrates event handling and DOM manipulation fundamentals.
+    - #### 4. Simon Game/
+        - Developed a fully functional Simon game using HTML, CSS, and JavaScript. This project was an excellent opportunity to solidify my understanding of DOM manipulation, event handling, and responsive design principles.
     
 
 

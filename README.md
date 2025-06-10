@@ -25,7 +25,7 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
           
 - ### Intermediate-Projects/
     - #### 1. Simon Game/
-        - Developed a fully functional Simon game using HTML, CSS, and JavaScript. This project was an excellent opportunity to solidify my understanding of DOM manipulation, event handling, and responsive design principles.
+        - Developed a fully functional Simon game using HTML, CSS, JavaScript, and jQuery. This project was an excellent opportunity to solidify my understanding of DOM manipulation, event handling, and responsive design principles.
     
 
 

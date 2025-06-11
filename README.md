@@ -22,6 +22,8 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
         - A simple interactive game built with JavaScript. It displays two dice, and upon every page refresh, both dice roll to show a random number, with the higher number determining the winner.
     - #### 3. Drum Kit/
         -  A fun and interactive website built using basic JavaScript, HTML, and CSS. Users can play drum sounds by either clicking on on-screen images or pressing the corresponding keyboard keys shown on each image. This project demonstrates event handling and DOM manipulation fundamentals.
+    - #### 3. QR Code Generator/
+        - This simple CLI app generates a QR code for a user-provided URL and stores it as a PNG image using the qr-image package. It accepts a URL and a masked password via the terminal using inquirer, generates a qr_image.png of the entered URL, and saves the URL and password to a text file named url.txt for reference.
           
 - ### Intermediate-Projects/
     - #### 1. Simon Game/

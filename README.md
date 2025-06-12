@@ -31,6 +31,11 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
         
     - #### 2. Band-Name-Generator/
         - A simple Express.js app that takes user input via HTML form and generates a fun band name using middleware.
+          
+    - #### 3. Secret Access App/
+        - A basic full-stack Express app that simulates password-based access to a secret page. Demonstrates backend routing, form handling, and conditional rendering using Node.js and Express.
+
+
 
     
 

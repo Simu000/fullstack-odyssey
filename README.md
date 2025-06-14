@@ -29,8 +29,8 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
     - #### 1. Simon Game/
         - Developed a fully functional Simon game using HTML, CSS, JavaScript, and jQuery. This project was an excellent opportunity to solidify my understanding of DOM manipulation, event handling, and responsive design principles.
         
-    - #### 2. Band-Name-Generator/
-        - A simple Express.js app that takes user input via HTML form and generates a fun band name using middleware.
+    - #### 2. Band-Generator/
+        - A fun web app that randomly generates quirky and cool band names with the click of a button. Built using Node.js, Express, and EJS, this project demonstrates core fullstack skills like routing, templating, static assets, and form handling.
           
     - #### 3. Secret Access App/
         - A basic full-stack Express app that simulates password-based access to a secret page. Demonstrates backend routing, form handling, and conditional rendering using Node.js and Express.

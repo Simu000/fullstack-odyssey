@@ -35,7 +35,7 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
     - #### 3. Secret Access App/
         - A basic full-stack Express app that simulates password-based access to a secret page. Demonstrates backend routing, form handling, and conditional rendering using Node.js and Express.
      
-    - #### 4. JSON-File-Handler (Pick Your Taco)/
+    - #### 4. JSON-File-Handler (Taco Town)/
         - A simple Node.js and Express project that demonstrates how to work with JSON file using `JSON.parse()`. It teaches basic data parsing, routing, and rendering JSON data in views.
 
 

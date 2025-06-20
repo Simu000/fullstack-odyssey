@@ -37,6 +37,9 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
      
     - #### 4. JSON-File-Handler (Taco Town)/
         - A simple Node.js and Express project that demonstrates how to work with JSON file using `JSON.parse()`. It teaches basic data parsing, routing, and rendering JSON data in views.
+     
+    - #### 5. REST-API-CRUD-App/
+        - A full-stack Node.js and Express app that interacts with a REST API using all HTTP methods (GET, POST, PUT, PATCH, DELETE). Demonstrates use of Bearer token authentication, form handling, and dynamic response rendering with EJS.
 
 
 

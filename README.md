@@ -40,6 +40,8 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
      
     - #### 5. REST-API-CRUD-App/
         - A full-stack Node.js and Express app that interacts with a REST API using all HTTP methods (GET, POST, PUT, PATCH, DELETE). Demonstrates use of Bearer token authentication, form handling, and dynamic response rendering with EJS.
+    - #### 6. Lisper/
+        - Lisper is a simple Whisper-style web app built with Node.js and Express. It fetches and displays anonymous secrets from an external API using EJS for dynamic rendering. A fun way to explore API integration and server-side rendering.
 
 
 

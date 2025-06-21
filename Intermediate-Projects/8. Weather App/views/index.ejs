@@ -1,0 +1,15 @@
+<%- include("partials/header", { title: "Home" }) %>
+
+<!-- Centered Glassy Card Wrapper -->
+<div class="home-wrapper">
+  <div class="home-card">
+    <div class="search-container center">
+      <form id="myForm" action="/city" method="post">
+        <input type="text" id="cityInput" name="City" placeholder="Enter a city..." required>
+        <button type="submit">Find the weather</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+<%- include("partials/footer") %>

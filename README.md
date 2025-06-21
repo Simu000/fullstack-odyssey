@@ -42,6 +42,10 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
         - A full-stack Node.js and Express app that interacts with a REST API using all HTTP methods (GET, POST, PUT, PATCH, DELETE). Demonstrates use of Bearer token authentication, form handling, and dynamic response rendering with EJS.
     - #### 6. Lisper/
         - Lisper is a simple Whisper-style web app built with Node.js and Express. It fetches and displays anonymous secrets from an external API using EJS for dynamic rendering. A fun way to explore API integration and server-side rendering.
+     
+    - #### 7. Weather App/
+        - A Node.js/Express app that fetches real-time weather data from OpenWeatherMap API and displays it with EJS. Demonstrates API integration, server-side rendering, and error handling in a clean interface.
+Stack: Express, EJS, Axios, OpenWeatherMap API
 
 
 

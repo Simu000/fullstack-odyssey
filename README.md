@@ -47,7 +47,7 @@ As I learn and grow, I’m building real projects to reinforce concepts and appl
         - A Node.js/Express app that fetches real-time weather data from OpenWeatherMap API and displays it with EJS. Demonstrates API integration, server-side rendering, and error handling in a clean interface.
 Stack: Express, EJS, Axios, OpenWeatherMap API
 
-    - #### 7. Weather App/
+    - #### 8. To-Do List App/
         - A full-stack task manager built with Node.js, Express, and PostgreSQL. Features CRUD operations, EJS templating, and persistent data storage. Perfect for learning backend fundamentals and database integration.
 
 - ### Advanced-Projects/

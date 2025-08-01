@@ -54,7 +54,30 @@ Stack: Express, EJS, Axios, OpenWeatherMap API
     - #### 1. Post your Blogs/
         - This is a full-stack blog application built using Node.js, Express, EJS, and Axios. It features a custom REST API and a separate frontend server that consumes the API to render posts, create new entries, and edit/delete existing ones. The app uses server-side rendering and showcases routing, form handling, and API integration.
         - This project is in the Advanced category because it involves full-stack app structure with a custom backend and integrated frontend. Authentication and deployment will be added in future versions.
-        
+    - #### 2. Secrets Project/
+        - This full-stack web application demonstrates secure user authentication using Google OAuth 2.0, bcrypt password hashing with salting, and session management with Passport.js.
+        - Users can register/login using local credentials or Google, and anonymously submit secrets, which are stored securely in a PostgreSQL database.
+        - Built with Node.js, Express, EJS, Passport.js, PostgreSQL (via pg module).
+        - Key backend security features include:
+            - OAuth 2.0 strategy for Google login
+            - Password salting + hashing using bcrypt
+            - Session management using express-session and Passport
+            - Secure storage of sensitive values using .env environment variables
+        - This project showcases real-world secure authentication flows with relational database integration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

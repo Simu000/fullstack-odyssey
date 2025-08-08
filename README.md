@@ -49,6 +49,12 @@ Stack: Express, EJS, Axios, OpenWeatherMap API
 
     - #### 8. To-Do List App/
         - A full-stack task manager built with Node.js, Express, and PostgreSQL. Features CRUD operations, EJS templating, and persistent data storage. Perfect for learning backend fundamentals and database integration.
+    - #### 9. Using SendGrid API
+        - A simple full‑stack application built with React for the front-end and Express.js for the backend, integrating SendGrid to send emails. This project demonstrates:
+            - Frontend-to-backend communication via HTTP requests (POST)
+            - Secure handling of sensitive data using environment variables (dotenv)
+
+Implementation of third-party API integration (SendGrid), including proper error handling and user feedback
 
 - ### Advanced-Projects/
     - #### 1. Post your Blogs/

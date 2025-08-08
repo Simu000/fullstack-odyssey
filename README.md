@@ -53,8 +53,7 @@ Stack: Express, EJS, Axios, OpenWeatherMap API
         - A simple full‑stack application built with React for the front-end and Express.js for the backend, integrating SendGrid to send emails. This project demonstrates:
             - Frontend-to-backend communication via HTTP requests (POST)
             - Secure handling of sensitive data using environment variables (dotenv)
-
-Implementation of third-party API integration (SendGrid), including proper error handling and user feedback
+            - Implementation of third-party API integration (SendGrid), including proper error handling and user feedback
 
 - ### Advanced-Projects/
     - #### 1. Post your Blogs/

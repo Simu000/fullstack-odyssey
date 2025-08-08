@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.Body-bg{
+    background-color: rgba(76,42,77,255);
+}
+.Main-text{
+    color: rgba(76,42,77,255);
+}
+.NavAndMain{
+    background-color: rgb(107, 76, 107);
+}
